@@ -1,2 +1,1 @@
-# bruteForce
-# app in Java, using swing
+# brute force app in Java - swing
